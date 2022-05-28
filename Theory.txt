@@ -1,0 +1,50 @@
+		
+	int	 a	=100;
+	datatype 	variable 	=litrals // values 
+	
+
+		
+// Operators  
+	// Arithemtic oprator : + , - , *, /  
+	// assignment   = = 
+	// compirison operatior 
+		<= , >= , ==  , > , !=
+	// Logical Operator 
+	&&  , // , !
+Statements : 
+	if,  if else , if else ladder  , switch 
+loop : 
+	for , while  , do while 
+ juming 
+	continue  , break ;, return 
+
+Data type : 
+	2 type :
+		premitive 
+			numbeic 
+				byte
+				short 
+				int 
+				flote 
+				doubl 
+				long 
+			non number 
+				String 
+				char 
+				boolean 
+		non premitive 
+			class 
+			interface 
+			Arrays 
+
+
+		1 byte = 8 bits 
+Boolean  	: 1 bit 
+char	 :	2 bytes (16 bit )
+Byte	: 	1 byte = 8 bit 
+Short 	: 	2 byte (16 bit )
+int	: 	4 byte (32 bit )
+long 	:	8 byte (64 bit )
+float	: 	4 byte (32 bit )
+double 	: 	8 byte 
+
